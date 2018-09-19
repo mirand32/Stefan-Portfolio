@@ -1,3 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 195 202" width="195" height="202"><defs><path d="M192.67 151.21L192.67 51.64L97.5 1.86L2.33 51.64L2.33 151.21L97.5 201L192.67 151.21Z" id="b17ma3KX4g"></path><path d="M192.67 151.21L192.67 51.64L97.5 1.86L2.33 51.64L2.33 151.21L97.5 201L192.67 151.21Z" id="avIal60kW"></path><path d="M121.62 139.32C108.32 139.32 97.5 128.5 97.5 115.2C97.5 113.72 98.7 112.52 100.18 112.52C101.66 112.52 102.86 113.72 102.86 115.2C102.86 125.54 111.28 133.96 121.62 133.96C131.96 133.96 140.38 125.54 140.38 115.2C140.38 104.85 131.96 96.44 121.62 96.44C108.32 96.44 97.5 85.62 97.5 72.32C97.5 59.02 108.32 48.2 121.62 48.2C134.92 48.2 145.74 59.02 145.74 72.32C145.74 73.8 144.54 75 143.06 75C141.58 75 140.38 73.8 140.38 72.32C140.38 61.97 131.96 53.56 121.62 53.56C111.28 53.56 102.86 61.97 102.86 72.32C102.86 82.66 111.28 91.08 121.62 91.08C134.92 91.08 145.74 101.9 145.74 115.2C145.74 128.5 134.92 139.32 121.62 139.32" id="f55qPV7eNc"></path><path d="M57.84 140.33C44.54 140.33 33.72 129.51 33.72 116.21C33.72 114.73 34.92 113.53 36.4 113.53C37.88 113.53 39.08 114.73 39.08 116.21C39.08 126.55 47.5 134.97 57.84 134.97C68.18 134.97 76.6 126.55 76.6 116.21C76.6 109.78 76.6 58.32 76.6 51.89C76.6 50.41 77.8 49.21 79.28 49.21C80.76 49.21 81.96 50.41 81.96 51.89C81.96 58.32 81.96 109.78 81.96 116.21C81.96 129.51 71.14 140.33 57.84 140.33" id="b10zrlMIqd"></path></defs><g><g><g><use xlink:href="#b17ma3KX4g" opacity="1" fill="#000000" fill-opacity="0"></use><g><use xlink:href="#b17ma3KX4g" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#avIal60kW" opacity="1" fill="#000000" fill-opacity="0"></use><g><use xlink:href="#avIal60kW" opacity="1" fill-opacity="0" stroke="#00c7fc" stroke-width="1" stroke-opacity="1"></use></g></g><g><use xlink:href="#f55qPV7eNc" opacity="1" fill="#000000" fill-opacity="1"></use><g><use xlink:href="#f55qPV7eNc" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#b10zrlMIqd" opacity="1" fill="#000000" fill-opacity="1"></use><g><use xlink:href="#b10zrlMIqd" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg version="1.1" viewBox="0 0 195 202" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<path id="b" d="m192.67 151.21v-99.57l-95.17-49.78-95.17 49.78v99.57l95.17 49.79 95.17-49.79z"/>
+<path id="d" d="m192.67 151.21v-99.57l-95.17-49.78-95.17 49.78v99.57l95.17 49.79 95.17-49.79z"/>
+<path id="a" d="m121.62 139.32c-13.3 0-24.12-10.82-24.12-24.12 0-1.48 1.2-2.68 2.68-2.68s2.68 1.2 2.68 2.68c0 10.34 8.42 18.76 18.76 18.76s18.76-8.42 18.76-18.76c0-10.35-8.42-18.76-18.76-18.76-13.3 0-24.12-10.82-24.12-24.12s10.82-24.12 24.12-24.12 24.12 10.82 24.12 24.12c0 1.48-1.2 2.68-2.68 2.68s-2.68-1.2-2.68-2.68c0-10.35-8.42-18.76-18.76-18.76s-18.76 8.41-18.76 18.76c0 10.34 8.42 18.76 18.76 18.76 13.3 0 24.12 10.82 24.12 24.12s-10.82 24.12-24.12 24.12"/>
+<path id="c" d="m57.84 140.33c-13.3 0-24.12-10.82-24.12-24.12 0-1.48 1.2-2.68 2.68-2.68s2.68 1.2 2.68 2.68c0 10.34 8.42 18.76 18.76 18.76s18.76-8.42 18.76-18.76v-64.32c0-1.48 1.2-2.68 2.68-2.68s2.68 1.2 2.68 2.68v64.32c0 13.3-10.82 24.12-24.12 24.12"/>
+</defs>
+<use fill="#000000" fill-opacity="0" xlink:href="#b"/>
+<use fill-opacity="0" stroke="#000000" stroke-opacity="0" xlink:href="#b"/>
+<use fill="#000000" fill-opacity="0" xlink:href="#d"/>
+<use fill-opacity="0" stroke="#00c7fc" xlink:href="#d"/>
+<use fill="#000000" xlink:href="#a"/>
+<use fill-opacity="0" stroke="#000000" stroke-opacity="0" xlink:href="#a"/>
+<use fill="#000000" xlink:href="#c"/>
+<use fill-opacity="0" stroke="#000000" stroke-opacity="0" xlink:href="#c"/>
+</svg>
