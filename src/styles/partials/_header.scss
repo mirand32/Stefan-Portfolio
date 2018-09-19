@@ -1,0 +1,56 @@
+
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    background: $black;
+    height: 100vh;
+}
+
+.header__logo{
+    width:120px;
+    margin-bottom: 30px;
+}
+
+
+
+.header__occupation{
+    padding:5px 0px;
+    border-bottom: 1px solid $black;
+    border-top: 1px solid $black;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+header button{
+    background: transparent;
+    border:none;
+    color:$blue;
+    font-size: 50px;
+}
+
+.header__links a{
+    color:white;
+    font-style:italic;
+    transition: color 0.6s;
+    &:hover{
+        color:$blue
+    }
+}
+
+.header__name{
+    color:$blue;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+.header__name span{
+    color:white;
+}
+
+.header__quote{
+    font-family: 'Arvo', serif;
+    font-style: italic;
+}

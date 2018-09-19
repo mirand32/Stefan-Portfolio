@@ -1,0 +1,49 @@
+.about{
+    display: flex;
+    flex-direction: column;
+    padding-bottom:60px;
+
+}
+
+.sectionTitle{
+    text-align: center;
+}
+
+.aboutList{
+    display: flex;
+    list-style-type: none;
+    margin-top:0;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0;
+}
+
+.aboutList__item{
+    position: relative;
+    text-align: center;
+    flex: 0 0 33%;
+    margin-top:20px;
+}
+
+.aboutList__item img{
+    width:25%;
+}
+
+.aboutList__item img:hover{
+    fill:orange;
+}
+
+.aboutList__item h3{
+    font-family: 'Montserrat', sans-serif;
+    padding-top:10px;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 26px;
+}
+
+.aboutList__item p{
+    padding: 0 50px;
+    font-family: 'Arvo', serif;
+    font-size: 18px;
+    line-height: 28px;
+}

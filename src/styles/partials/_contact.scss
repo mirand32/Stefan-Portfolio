@@ -1,0 +1,44 @@
+.contactForm{
+    display: flex;
+    flex-direction: column;
+}
+
+.contactForm{
+    padding-top:100px;
+}
+
+.contactForm__input, .contactForm textarea{
+    font-family: 'Arvo', serif;
+    border-bottom: 1px solid;
+    color:$grey;
+    font-size: 16px;
+    font-style: italic;
+    padding-bottom: 15px;
+}
+
+.contactForm__fillable{
+    display: flex;
+    justify-content: space-between;
+}
+
+.contactForm__input{
+    width: 45%;
+    margin-bottom: 50px;
+}
+
+.contactForm button{
+    margin:70px auto;
+    background: $blue;
+    border:none;
+    display: flex;
+    color:white;
+    padding: 10px 15px;
+}
+
+.contactForm__submit{
+    font-family: "Montserrat", FontAwesome, sans-serif;
+    text-transform: uppercase;
+    background: none;
+    border-radius: 5px;
+    color:white;
+}

@@ -1,0 +1,40 @@
+.skills{
+    background:$black;
+}
+
+.skills .sectionTitle__text{
+    color:white;
+    margin-bottom:30px;
+}
+
+.skillsList{
+    display: flex;
+    justify-content: space-between;
+    padding:0;
+    text-align: center;
+    color:white;
+}
+
+.skillsList__title{
+    margin: 25px 0;
+    font-size:25px;
+}
+
+.skillsList__block{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.skillsList__group{
+    padding: 0 20px;
+}
+
+.skillsList__group img{
+    width:60%;
+}
+
+.skillsList__group h6{
+    font-size:18px;
+    padding: 10px 5px;
+    margin-bottom: 30px;
+}

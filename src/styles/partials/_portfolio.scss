@@ -1,0 +1,74 @@
+.portfolio .sectionTitle{
+    margin-bottom: 100px;
+}
+
+.project{
+    width: 100%;
+    padding-bottom: 150px;    
+}
+
+.project__info{
+    float: left;
+    width: 45%;
+}
+
+.project__info--title{
+    font-family: "Montserrat", sans-serif;
+    font-weight:700;
+    font-size: 25px;
+}
+
+.project__info--description{
+    font-family: "Arvo", sans-serif;
+    font-size:20px;
+}
+
+.project__info--icons img{
+    width:80px;
+}
+
+.project__info--button{
+    background: $black;
+    color:white;
+    border:none;
+    padding:5px 15px;
+    border-radius:5px;
+    margin-top:20px;
+}
+
+.project__info--button a{
+    color:white;
+    font-family: "Arvo", sans-serif;
+}
+
+.carousel{
+    float:left;
+    width:45%;
+}
+
+.carousel__cell {
+    width:100%;
+    text-align: center;
+}
+
+.carousel__cell img {
+    width:450px;
+    height: 300px;
+}
+
+.flickity-prev-next-button.previous,
+.flickity-prev-next-button.next {
+  display: none;
+}
+
+.left{
+    text-align: right;
+    margin-right:5%;
+}
+
+.right{
+    text-align: left;
+    margin-left:5%;
+}
+
+
